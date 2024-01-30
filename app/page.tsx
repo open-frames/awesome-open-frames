@@ -2,7 +2,9 @@ import { getFrameMetadata } from '@coinbase/onchainkit';
 import type { Metadata } from 'next';
 
 const frameMetadata = getFrameMetadata({
-  buttons: ['Click to unlock'],
+  buttons: [
+      {label: 'Click to unlock', action: 'post_redirect'}
+  ],
   image: 'https://redirect-frame.vercel.app/video.png',
   post_url: 'https://redirect-frame.vercel.app/api/frame',
 });
@@ -16,7 +18,6 @@ export const metadata: Metadata = {
     images: ['https://redirect-frame.vercel.app/video.png'],
   },
   other: {
-    'fc:frame:button:1:action': 'post_redirect',
     ...frameMetadata,
   },
 };
