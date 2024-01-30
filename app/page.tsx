@@ -2,20 +2,21 @@ import { getFrameMetadata } from '@coinbase/onchainkit';
 import type { Metadata } from 'next';
 
 const frameMetadata = getFrameMetadata({
-  buttons: ['Next image'],
-  image: 'https://zizzamia.xyz/park-1.png',
-  post_url: 'https://zizzamia.xyz/api/frame',
+  buttons: ['Click to unlock'],
+  image: 'https://redirect-frame.vercel.app/video.png',
+  post_url: 'https://redirect-frame.vercel.app/api/frame',
 });
 
 export const metadata: Metadata = {
-  title: 'zizzamia.xyz',
+  title: 'Redirect frame',
   description: 'LFG',
   openGraph: {
-    title: 'zizzamia.xyz',
+    title: 'Redirect frame',
     description: 'LFG',
-    images: ['https://zizzamia.xyz/park-1.png'],
+    images: ['https://redirect-frame.vercel.app/video.png'],
   },
   other: {
+    'fc:frame:button:1:action': 'post_redirect',
     ...frameMetadata,
   },
 };
@@ -23,7 +24,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <h1>zizzamia.xyz</h1>
+      <img src={'/video.png'}/>
     </>
   );
 }
