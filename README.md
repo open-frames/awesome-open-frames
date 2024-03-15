@@ -1,190 +1,37 @@
-# Awesome Frames
+# Awesome Open Frames
 
-A Frame lets you turn any website into an interactive Frame that other apps or websites can show to their users.
-It’s a standard for creating interactive and authenticated experiences - Create polls, live feeds, interactive galleries or anything else you can imagine.
+Open Frames is an interoperable standard extending the original Frames specification to support a broader range of applications and protocols.
 
-![](https://docs.farcaster.xyz/assets/frame_og.fVqFIQuZ.png)
+> 💸 **Open Frames Bounty Program**
+> We're offering a $100 bounty for developers who achieve 3 goals:
+>
+> 1. Make your Frame interoperable with the Open Frames standard.
+> 2. Add your Frame to the `Compatible Frames` section in this repo via a PR.
+> 3. Send a DM: Send your frame via a DM to `chatframes.eth` through X
+>
+> That’s it. A representartive will contact you and share details on how to receive the prize!
 
-[Farcaster Frames Docs](https://docs.farcaster.xyz/learn/what-is-farcaster/frames)
+## Compatible Frames
 
-## Quickstart to build frames
+Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
 
-- [frames.js](https://framesjs.org) is the fastest way to start building frames
+- **[Interactive Polls](https://github.com/xmtp-labs/fc-polls)**: Engage your audience with real-time polls.
+- **[rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors)**: Rock paper scissors game.
 
-## Ask for help & meet other Frames builders
+## Compatible Applications
 
-- [/frames-devs](https://warpcast.com/~/channel/frames-devs)
+Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
 
-## Useful Tools & Libraries
+- [Converse](https://getconverse.app/): Own your conversations.
+- [Converse Web](https://app.converse.xyz/): Own you conversations. On web.
+- [Warpcast](https://warpcast.com/): A sufficiently decentralized social network
+- [XTMP Web Client](https://quickstart-web-one.vercel.app/): Frame compatible web client with transactions
 
-- [Reset your Frames metadata cache on Warpcast](https://warpcast.com/~/developers/embeds)
-- [Validate your frame is working](https://warpcast.com/~/developers/frames)
-- [Verify Frames actions onchain](https://warpcast.com/fastfourier.eth/0xcaaa0dc9)
-- [Satori: Library to convert HTML to Images](https://github.com/vercel/satori)
-- [Onchainkit: Deploy onchain](https://github.com/coinbase/onchainkit)
-- [Generate dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
-- [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
-- [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
-- [Deploy your frame on-chain using the Internet Computer (ICP](https://medium.com/dfinity/how-to-create-an-on-chain-farcaster-frame-ee232e807219)
-- [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
-- [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
+## Related Resources
 
-### Data & API Providers
+To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
-- [Neynar (Farcaster)](https://neynar.com/)
-- [Airstack Onchain Kit: APIs & SDK](https://link.airstack.xyz/frames)
-- [Web3 Bio](https://api.web3.bio/)
-- [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
-- [Pinata - Hub, APIs](https://pinata.cloud/farcaster)
-- [The Graph (onchain data)](https://thegraph.com/blog/build-with-farcaster-frames-the-graph/)
-
-### Serverless Computing Providers
-
-- [Phala Network](https://phala.network)
-  - [FrameHub Template](https://github.com/Phala-Network/framehub-template)
-
-### Boilerplate repos
-
-- [Frames.js starter](https://github.com/framesjs/frames.js/tree/main/examples/framesjs-starter)
-- [Next JS](https://github.com/Zizzamia/a-frame-in-100-lines)
-- [Express JS](https://github.com/SamBroner/farcaster-frames-express-template)
-- [Node JS](https://github.com/nekofar/farcaster-frames-template)
-- [Syndicate Frame API, Make an NFT](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
-- [Simplest Frame (no framework)](https://github.com/depatchedmode/simplest-frame)
-- [Privy Frame](https://github.com/privy-io/privy-frames-demo)
-- [Oframl framework for building frames in OCaml](https://github.com/ncitron/oframl)
-- [Smart account frame Template](https://github.com/pimlicolabs/smart-account-frame-template)
-- [Rust Farcaster Frames Template](https://github.com/jpgonzalezra/farcaster-frames-template)
-- [Remix Farcaster Frame Template](https://github.com/jfstn/remix-frames)
-- [Typescript Farcaster Frames](https://github.com/Gekctek/farcaster-frame-azle)
-- [Motoko Farcaster Frames](https://github.com/Gekctek/farcaster-frame)
-- [Account Abstraction + Meta-transactions Frame](https://github.com/openfort-xyz/openfort-fc-frames-demo)
-- [Using The Graph](https://github.com/schmidsi/cryptopunks-frames)
-- [Python frame](https://github.com/devinaconley/python-frames/tree/main/examples/simple)
-
-### Open source Frames
-
-- [Frames.js launch frame (pages then link)](https://github.com/framesjs/homeframe/blob/main/app/page.tsx)
-  - [Demo](https://warpcast.com/df/0xd925a844)
-- [IPFS Gateway Timer frame (GitHub)](https://github.com/eucalyptus-viminalis/ipfs-timer)
-  - [Live on Warpcast](https://warpcast.com/3070/0x07bf940d)
-- [Token gated frame using Unlock](https://github.com/unlock-protocol/token-gated-frame)
-  - [Demo](https://warpcast.com/julien51.eth/0xa5390f5a)
-- [Degen Frame](https://github.com/KartikC/degen-frame/)
-  - [Demo](https://warpcast.com/sathaxe/0x5f6cdaed)
-- [Text Input example](https://github.com/horsefacts/echo-the-dolphin)
-- [Akinator Frame](https://github.com/therealharpaljadeja/akinator-farcaster-frame/tree/main) [Demo](https://warpcast.com/harpaljadeja/0xa4ff1e6b)
-- [Onframe Chess](https://github.com/fiveoutofnine/onframe-chess) [Demo](onframe-chess.vercel.app)
-- [Based adventure](https://github.com/seangeng/based-adventure)
-- [Snake game](https://github.com/Joetoledano/snakecaster)
-- [RSVP to events](https://github.com/therealharpaljadeja/farcaster-event-frame)
-- [Show a random CC0-lib image](https://github.com/cc0-lib/cc0-lib-frames)
-- [Small brain Frames](https://github.com/smallbraingames/small-brain-frame)
-- [Onchain cow clicker](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
-- [Zora Mint Frame](https://github.com/lottopgf/zora-mint-frame)
-- [Zora NFTs Carousel](https://github.com/jvaleskadevs/fc-frame-zora-nfts-carrousel)
-- [Find StarkNet Friends on Farcaster](https://github.com/keep-starknet-strange/starknet-warpcast/tree/main/frames/find-starknet-frens)
-- [Job frames from an API](https://github.com/jobstash/job-frame)
-- [Yoink](https://github.com/horsefacts/yoink)
-- [Poll app](https://github.com/farcasterxyz/fc-polls)
-- [Netheria Text Based Mini Game Frame](https://gist.github.com/0xdeployer/3b9652e511485a0a088be708da6635b0)
-- [2048 Game](https://github.com/Montoya/2048frame)
-- [Event Invite Frame](https://github.com/therealharpaljadeja/farcaster-event-frame)
-- [Quizframe.xyz](https://github.com/w1nt3r-eth/quizframe.xyz)
-- [Cast gates](https://github.com/stephancill/castgates/)
-- [Framering](https://github.com/riotgoools/framering)
-- [Image gallery frame](https://github.com/Complexlity/image-gallery-frame)
-- [Redirect frame example](https://github.com/farcasterxyz/redirect-frame)
-- [Are We Frens frame](https://github.com/limone-eth/are-we-frens-frame)
-- [Airstack NFT frame](https://github.com/limone-eth/airstack-frame)
-- [Simple Lemon frame](https://github.com/limone-eth/lemon-frame)
-- [LFG token frame](https://github.com/edendao/lfg)
-- [Lu.ma Event Redirect Frame](https://github.com/thomas779/hackasado-frame)
-- [Seedbucks, Mint ERC20](https://github.com/worm-emoji/seedbucks)
-- [Mint GPT](https://github.com/instanetk/mintgpt/blob/629e94a47ac51f1110fa5914bd11c12e6bf1f699/src/pageComponents/mint/ContractDemo.tsx#L4)
-- [Bag app](https://github.com/Destiner/bag-app)
-- [in-frame captcha](https://github.com/limone-eth/farcaster-horizon-airstack/tree/main/app/api/captcha)
-- [Assorted frames by Pinata](https://github.com/PinataCloud/pinataframes)
-- [Lil Nouns Frames](https://github.com/lilnouns/lilnouns-frames)
-- [Whitelist checker](https://github.com/99darwin/milo-whitelist-checker)
-- [Choose your own adventure](https://github.com/99darwin/cyo-adventure)
-- [Frames64](https://github.com/Dhruv-2003/Frame-base64)
-- [ETH Wrapped](https://github.com/shiyasmohd/ethwrapped-frames)
-- [Interframe](https://github.com/eucalyptus-viminalis/interframe)
-- [Safe Proposal Frame](https://github.com/builders-garden/safe-proposal-frame)
-- [Rock, Paper, Scissors](https://github.com/devinaconley/rock-paper-scissors)
-
-### Custom GPTs
-
-- [Custom LLM Flask Frame](https://github.com/mr-spaghetti-code/flaskframe)
-- [ChatGPT custom GPT, How to build frames](https://chat.openai.com/g/g-wnoTA6Mhw-how-to-build-frames-for-warpcast)
-- [FramesGPT](https://chat.openai.com/g/g-vxALnvPFA-framesgpt)
-- [Farcaster Framer](https://chat.openai.com/g/g-rIhEYpfwV-farcaster-framer)
-
-## Bounties & rewards for building Frames
-
-- [Bountycaster](https://www.bountycaster.xyz/?tag=tag-frames)
-
-## Embedding Frames in your own app
-
-- [Client side SDK to render frames](https://docs.modprotocol.org/farcaster-frames)
-- [Post a frame action using Neynar's Farcaster signers API](https://docs.neynar.com/reference/post-frame-action)
-- [Validate a frame action using Neynar](https://docs.neynar.com/reference/validate-frame)
-- [Validate a frame action using Pinata](https://github.com/PinataCloud/pinata-fdk?tab=readme-ov-file#validateframemessage)
-
-## What's coming next in Frames
-
-- [Varun's cast](https://warpcast.com/v/0x496df759)
-
-## Frame creation sites
-
-- [Create threads](https://github.com/Sneh1999/fc-threads)
-- [Create fc-polls](https://fc-polls.vercel.app/)
-- [Create polls](https://polls.dep.dev/)
-- [Create pinterest-like frameboards](https://www.frameboard.com/)
-- [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
-- [Create a quiz](https://frame-quiz.vercel.app/)
-- [Earncaster: Reward Farcaster users for learning about your products or ideas](https://earncaster.com/)
-- [Glass.cx](https://glass.cx/)
-- [Token gated frames](https://frames.token-gated.com/)
-- [Neynar no-code frames, must be logged in](https://dev.neynar.com/frames)
-
-## Frame ideas
-
-- [Warpcast search](https://warpcast.com/~/search/casts?q=Frame+idea)
-- [@les](https://warpcast.com/les/0xe58eb035)
-- [@df](https://warpcast.com/df/0xfdd6e7b7)
-
-## Frame Analytics
-
-- [Spindl](https://frames.spindl.xyz/)
-
-## Frame launches
-
-- [/frames](https://warpcast.com/~/channel/frames)
-- [Launchcaster](https://www.launchcaster.xyz/?text=frame)
-- [TopFrames.xyz - Curated directory of novel Frames](https://topframes.xyz/)
-
-## Projects that integrated Frames
-
-- [Frameboard, follow board with wallet](https://www.frameboard.com/)
-  - [view board posts inframe](https://warpcast.com/jayme/0xb8415290)
-- [Gallery, mint to connected wallet](https://gallery.so/)
-- [Manifold, mint to connected wallet](https://manifold.xyz/)
-- [Paragraph, Subscribe to newsletter](https://paragraph.xyz/)
-  - [read a post inline](https://warpcast.com/colin/0x88627734)
-- [Serotonin, Show you're attending an event](platform.serotonin.co/events)
-  - [Show you're attending ETH Denver](https://warpcast.com/michael/0xb11100d8)
-
-## Apps that support Frames
-
-- [Warpcast](https://warpcast.com)
-- [Supercast](https://www.supercast.xyz)
-- [Yup](https://app.yup.io/login?callbackUrl=%2F)
-- [Charmverse](https://warpcast.com/ccarella.eth/0xde011da7)
-- [Launchcaster](https://launchcaster.xyz)
-
-## Other Frames implementations
-
-- [XMTP](https://community.xmtp.org/t/supporting-frames-in-xmtp/535)
-- [Lens](https://reflect.site/g/yoginth/hey-portal-open-graph-spec/cd7225f128274da382f1f516e7e63f15)
+- [Open Frames Spec](https://github.com/open-frames/spec): The official specification document for Open Frames.
+- [Chat Frames](https://xmtp.org/docs/build/frames)[:](https://xmtp.org/docs/xip) Explore how to create XMTP compatible Frames
+- [Rendering Open Frames](https://xmtp.org/docs/build/frames): Tutorial on how to render interoperable frames in Messaging Apps.
+- [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources
