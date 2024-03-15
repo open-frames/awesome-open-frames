@@ -5,7 +5,7 @@ const frameMetadata = getFrameMetadata({
   buttons: [
       {label: 'Click to unlock', action: 'post_redirect'}
   ],
-  image: 'https://redirect-frame.vercel.app/video.png',
+  image: 'https://redirect-frame.vercel.app/picture.png',
   post_url: 'https://redirect-frame.vercel.app/api/frame',
 });
 
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Redirect frame',
     description: 'LFG',
-    images: ['https://redirect-frame.vercel.app/video.png'],
+    images: ['https://redirect-frame.vercel.app/picture.png'],
   },
   other: {
     ...frameMetadata,
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <img src={'/video.png'}/>
+      <img src={'/picture.png'}/>
     </>
   );
 }
