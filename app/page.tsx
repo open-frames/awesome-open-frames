@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 const frameMetadata = getFrameMetadata({
   buttons: [
-      {label: 'Click to unlock', action: 'post_redirect'}
+      {label: 'Go to bounty', action: 'post_redirect'}
   ],
   image: 'https://awesome-open-frames.vercel.app/picture.png',
   post_url: 'https://awesome-open-frames.vercel.app/api/frame',
