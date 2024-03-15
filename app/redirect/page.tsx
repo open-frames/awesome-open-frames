@@ -6,7 +6,7 @@ export default function RedirectPage() {
     const router = useRouter();
 
     useEffect(() => {
-        const youtubeUrl = 'https://www.youtube.com/watch?v=MwCn50ZVPGQ&feature=youtu.be';
+        const youtubeUrl = 'https://github.com/open-frames/awesome-open-frames';
 
         // Perform the redirect
         window.location.href = youtubeUrl; // For a full page reload redirect
