@@ -51,7 +51,7 @@ This dApps allow their content to be shared as Frames
 - [Launchcaster](https://www.launchcaster.xyz)
 - [ShortURL](https://shorturl.at)
 - [Wibtal](https://wibtal.com)
-- [Mark McClure](https://markmcclure.xyz).
+- [Mark McClure](https://markmcclure.xyz)
 - [NextJS Boilerplate](https://nextjs-boilerplate-xi-two-79.vercel.app)
 - [Jared Hecht](https://jaredhecht.com)
 - [Luc.cx](https://luc.cx)
