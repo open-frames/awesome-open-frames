@@ -12,35 +12,35 @@ Open Frames is an interoperable standard extending the original Frames specifica
 >
 > Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
 
-## Compatible Frame Repos
+## Compatible open-source frames
 
 Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
 
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 
-## Example Frames
+## Example frames
 
 Production ready frames that you can test now
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
 
-## Compatible Applications
+## Messaging applications
 
 Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
 
 - [Converse](https://getconverse.app/): Own your conversations.
 - [Converse Web](https://app.converse.xyz/): Own you conversations. On web.
-- [Warpcast](https://warpcast.com/): A sufficiently decentralized social network
 - [XTMP Web Client](https://quickstart-web-one.vercel.app/): Frame compatible web client with transactions
 
-## Compatible Frame Providers
+## Other applications
 
 This dApps allow their content to be shared as Frames
 
+- [Paragraph](https://paragraph.xyz)
+- [Launchcaster](https://www.launchcaster.xyz)
 - [Outcasters](https://outcasters.xyz)
 - [Onchain Letters](https://onchainletters.xyz)
-- [Paragraph](https://paragraph.xyz)
 - [UFO News](https://news.ufo.fm)
 - [RWX](https://rwx.mrjonkane.com)
 - [Power Law Systems](https://powerlaw.systems)
@@ -49,7 +49,6 @@ This dApps allow their content to be shared as Frames
 - [Derek Brown](https://derekbrown.xyz)
 - [Zine](https://zine.shamesoiree.com)
 - [Fabrica](https://blog.fabrica.land)
-- [Launchcaster](https://www.launchcaster.xyz)
 - [ShortURL](https://shorturl.at)
 - [Wibtal](https://wibtal.com)
 - [Mark McClure](https://markmcclure.xyz)

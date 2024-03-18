@@ -1,4 +1,4 @@
-To achieve the goals outlined in the bounty and add the specified metadata to make your Frame interoperable with the Open Frames standard, follow these steps:
+To achieve the goals outlined in the bounty and add the specified metadata to make your Frame interoperable with the [Open Frames standard](https://github.com/open-frames/standard), follow these steps:
 
 ### Step 1: Modify the Metadata in Your Frame
 
@@ -25,6 +25,12 @@ export const metadata: Metadata = {
 ```
 
 **FramesJS**
+
+```jsx
+//code sample soon
+```
+
+Go here learn more about the Open Frames specification
 
 ### Step 2: Add Your Frame to the Compatible Frames Section
 
