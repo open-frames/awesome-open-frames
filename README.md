@@ -12,7 +12,7 @@ Open Frames is an interoperable standard extending the original Frames specifica
 >
 > Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
 
-## Compatible open-source frames
+## Example frames (open-source)
 
 Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
 
