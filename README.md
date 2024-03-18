@@ -12,20 +12,20 @@ Open Frames is an interoperable standard extending the original Frames specifica
 >
 > Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
 
-## Example frames (open-source)
+### Example frames (open-source)
 
 Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
 
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 
-## Example frames
+### Example frames
 
 Production ready frames that you can test now
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
 
-## Messaging applications
+### Messaging apps
 
 Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
 
@@ -34,7 +34,7 @@ Open Frames is designed to be universally compatible, with support from a wide r
 - [xmtp.chat](https://xmtp.chat/): An interoperable web3 inbox
 - [dev-inbox](https://dev-inbox.vercel.app/): Dev Focused Frame compatible web client.
 
-## Other applications
+### Other apps
 
 This dApps allow their content to be shared as Frames
 
@@ -66,3 +66,9 @@ To get started with Open Frames or to learn more about the specification and its
 - [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
 - [Open Frames Bounty](/BOUNTY.md): Bounty details for making your frames Open Frame compatible.
 - [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources.
+
+## Supporters
+
+- [Frames.js](https://framesjs.org/reference/js/xmtp)
+- [OnChainKit](https://onchainkit.xyz/xmtp/introduction)
+- [XMTP](https://xmtp.org/docs/build/frames)
