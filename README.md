@@ -34,7 +34,7 @@ Open Frames is designed to be universally compatible, with support from a wide r
 - [xmtp.chat](https://xmtp.chat/): An interoperable web3 inbox
 - [dev-inbox](https://dev-inbox.vercel.app/): Dev Focused Frame compatible web client.
 
-### Other apps
+### Supporters
 
 This dApps allow their content to be shared as Frames
 
@@ -59,6 +59,12 @@ This dApps allow their content to be shared as Frames
 - [0xPratik](https://0xpratik.com)
 - [Teji](blog.teji.io)
 
+#### Tooling
+
+- [Frames.js](https://framesjs.org/reference/js/xmtp)
+- [OnChainKit](https://onchainkit.xyz/xmtp/introduction)
+- [XMTP](https://xmtp.org/docs/build/frames)
+
 ## Related Resources
 
 To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
@@ -66,9 +72,3 @@ To get started with Open Frames or to learn more about the specification and its
 - [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
 - [Open Frames Bounty](/BOUNTY.md): Bounty details for making your frames Open Frame compatible.
 - [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources.
-
-## Supporters
-
-- [Frames.js](https://framesjs.org/reference/js/xmtp)
-- [OnChainKit](https://onchainkit.xyz/xmtp/introduction)
-- [XMTP](https://xmtp.org/docs/build/frames)
