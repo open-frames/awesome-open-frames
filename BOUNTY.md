@@ -1,4 +1,6 @@
-To achieve the goals outlined in the bounty and add the specified metadata to make your Frame interoperable with the [Open Frames standard](https://github.com/open-frames/standard), follow these steps:
+# Open Frames Bounty
+
+Welcome to the Open Frames Bounty Program! 🚀 If you're passionate about interoperability and eager to make your Frame a part of the ever-growing Open Frames ecosystem, you're in the right place. By following the steps you will enhance your Frame with the necessary metadata for Open Frames compatibility, according to this [standard](https://github.com/open-frames/standard). Let's dive in!
 
 ### Step 1: Modify the Metadata in Your Frame
 
