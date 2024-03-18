@@ -31,7 +31,8 @@ Open Frames is designed to be universally compatible, with support from a wide r
 
 - [Converse](https://getconverse.app/): Own your conversations.
 - [Converse Web](https://app.converse.xyz/): Own you conversations. On web.
-- [XTMP Web Client](https://quickstart-web-one.vercel.app/): Frame compatible web client with transactions
+- [XTMP Web Client](https://dev-inbox.vercel.app/): Frame compatible web client with transactions
+- [XTMP Web Inbox](https://xmtp.chat/): Frame compatible web client with transactions
 
 ## Other applications
 
