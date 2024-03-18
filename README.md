@@ -12,16 +12,16 @@ Open Frames is an interoperable standard extending the original Frames specifica
 >
 > Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
 
-### Example frames (open-source)
+### Example frames
 
 Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
+
+**(open-source)**
 
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 
-### Example frames
-
-Production ready frames that you can test now
+**others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
 
