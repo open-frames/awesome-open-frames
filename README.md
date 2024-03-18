@@ -62,7 +62,6 @@ This dApps allow their content to be shared as Frames
 
 To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
-- [Open Frames Spec](https://github.com/open-frames/spec): The official specification document for Open Frames.
-- [Chat Frames](https://xmtp.org/docs/build/frames)[:](https://xmtp.org/docs/xip) Explore how to create XMTP compatible Frames
-- [Rendering Open Frames](https://xmtp.org/docs/build/frames): Tutorial on how to render interoperable frames in Messaging Apps.
+- [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
+- [Open Frames Bounty](/blob/main/BOUNTY.md)
 - [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources
