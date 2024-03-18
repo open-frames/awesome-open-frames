@@ -5,11 +5,12 @@ Open Frames is an interoperable standard extending the original Frames specifica
 > 💸 Open Frames Bounty Program
 > We're offering a $100 bounty for developers who achieve 3 goals:
 >
-> 1. Make your Frame interoperable with the Open Frames standard.
-> 2. Add your Frame to the `Compatible Frames` section in this repo via a PR.
-> 3. Send your frame via a DM to 
-> `0xb83978772984b2AEf7CF3f532461c551191Ce10A` through one of the [Compatible Applications](#compatible-applications)
+> 1. Make your Frame interoperable with the Open Frames [standard](https://github.com/open-frames/standard).
+> 2. Add your Frame to the [Example Frames](#example-frames) section in this repo via a PR.
+> 3. Send your frame via a DM to
+>    `0xb83978772984b2AEf7CF3f532461c551191Ce10A` through one of the [Compatible Applications](#compatible-applications)
 >
+> Read more about the bounty [here](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md)
 > That’s it. A representartive will contact you and share details on how to receive the prize!
 
 ## Compatible Frame Repos

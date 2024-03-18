@@ -1,12 +1,21 @@
 import { getFrameMetadata } from '@coinbase/onchainkit';
 import type { Metadata } from 'next';
+import { NEXT_PUBLIC_URL } from './config';
 
 const frameMetadata = getFrameMetadata({
   buttons: [
-      {label: 'Go to bounty', action: 'post_redirect'}
+    {
+      label: 'Read more',
+      action: 'post_redirect',
+      target: `${NEXT_PUBLIC_URL}/api/frame/action1`,
+    },
+    {
+      label: 'Go to bounty',
+      action: 'post_redirect',
+      target: `${NEXT_PUBLIC_URL}/api/frame/action2`,
+    },
   ],
-  image: 'https://awesome-open-frames.vercel.app/picture.png',
-  post_url: 'https://awesome-open-frames.vercel.app/api/frame',
+  image: `${NEXT_PUBLIC_URL}/picture.png`,
 });
 
 export const metadata: Metadata = {
@@ -15,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Awesome Open Frame',
     description: 'Interoperable Frames',
-    images: ['https://awesome-open-frames.vercel.app/picture.png'],
+    images: [`${NEXT_PUBLIC_URL}/picture.png`],
   },
   other: {
     ...frameMetadata,
@@ -25,7 +34,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <img src={'/picture.png'}/>
+      <img src={'/picture.png'} />
     </>
   );
 }
