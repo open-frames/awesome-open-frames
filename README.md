@@ -25,12 +25,12 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
 
-### Messaging apps
+### Compatible messaging apps
 
 Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
 
 - [Converse](https://getconverse.app/): Own your conversations.
-- [Converse Web](https://app.converse.xyz/): Own you conversations. On web.
+- [Converse Web](https://app.converse.xyz/): Own you conversations. On the web.
 - [xmtp.chat](https://xmtp.chat/): An interoperable web3 inbox
 - [dev-inbox](https://dev-inbox.vercel.app/): Dev Focused Frame compatible web client.
 

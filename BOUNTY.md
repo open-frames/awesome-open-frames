@@ -32,7 +32,7 @@ export const metadata: Metadata = {
 //code sample soon
 ```
 
-Go here learn more about the Open Frames specification
+Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard).
 
 ### Step 2: Add Your Frame to the Compatible Frames Section
 
@@ -48,7 +48,7 @@ Go here learn more about the Open Frames specification
 
 ### Step 3: Send Your Frame via DM
 
-1. **Access XMTP**: Go to the any of the apps listed in the [Compatible Applications](https://github.com/open-frames/awesome-open-frames?tab=readme-ov-file#compatible-applications), or just use the [Dev Inbox](https://web-inbox.vercel.app/).
+1. **Access XMTP**: Go to the any of the apps listed in the [Compatible Applications](https://github.com/open-frames/awesome-open-frames?tab=readme-ov-file#compatible-messaging-apps)
 
 2. **Connect Your Wallet**: Follow the prompts to connect your Ethereum wallet. Make sure you're using the wallet address that you want to be contacted on for the bounty.
 
