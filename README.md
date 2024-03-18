@@ -34,22 +34,11 @@ Open Frames is designed to be universally compatible, with support from a wide r
 - [xmtp.chat](https://xmtp.chat/): An interoperable web3 inbox
 - [dev-inbox](https://dev-inbox.vercel.app/): Dev Focused Frame compatible web client.
 
-### Supporters
-
-This dApps & protocols & tooling already support the Open Frames standard.
-
-- [Paragraph](https://paragraph.xyz)
-- [Launchcaster](https://www.launchcaster.xyz)
-
-And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onchainletters.xyz) | [UFO News](https://news.ufo.fm) | [RWX](https://rwx.mrjonkane.com) | [Power Law Systems](https://powerlaw.systems) | [Frameboard](https://www.frameboard.com) | [Solo Salon](https://solosalon.clinamenic.com) | [Derek Brown](https://derekbrown.xyz) | [Zine](https://zine.shamesoiree.com) | [Fabrica](https://blog.fabrica.land) | [ShortURL](https://shorturl.at) | [Wibtal](https://wibtal.com) | [Mark McClure](https://markmcclure.xyz) | [NextJS Boilerplate](https://nextjs-boilerplate-xi-two-79.vercel.app) | [Jared Hecht](https://jaredhecht.com) | [Luc.cx](https://luc.cx) | [0xPratik](https://0xpratik.com) | [Teji](blog.teji.io)
-
 #### Tooling
 
 - [Frames.js](https://framesjs.org/reference/js/xmtp)
 - [OnChainKit](https://onchainkit.xyz/xmtp/introduction)
 - [XMTP](https://xmtp.org/docs/build/frames)
-
-### Supporters
 
 ### Related Resources
 
@@ -58,3 +47,14 @@ To get started with Open Frames or to learn more about the specification and its
 - [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
 - [Open Frames Bounty](/BOUNTY.md): Bounty details for making your frames Open Frame compatible.
 - [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources.
+
+---
+
+### Supporters
+
+This dApps & protocols & tooling already support the Open Frames standard.
+
+- [Paragraph](https://paragraph.xyz)
+- [Launchcaster](https://www.launchcaster.xyz)
+
+And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onchainletters.xyz) | [UFO News](https://news.ufo.fm) | [RWX](https://rwx.mrjonkane.com) | [Power Law Systems](https://powerlaw.systems) | [Frameboard](https://www.frameboard.com) | [Solo Salon](https://solosalon.clinamenic.com) | [Derek Brown](https://derekbrown.xyz) | [Zine](https://zine.shamesoiree.com) | [Fabrica](https://blog.fabrica.land) | [ShortURL](https://shorturl.at) | [Wibtal](https://wibtal.com) | [Mark McClure](https://markmcclure.xyz) | [NextJS Boilerplate](https://nextjs-boilerplate-xi-two-79.vercel.app) | [Jared Hecht](https://jaredhecht.com) | [Luc.cx](https://luc.cx) | [0xPratik](https://0xpratik.com) | [Teji](blog.teji.io)
