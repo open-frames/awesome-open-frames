@@ -7,7 +7,8 @@ Open Frames is an interoperable standard extending the original Frames specifica
 >
 > 1. Make your Frame interoperable with the Open Frames standard.
 > 2. Add your Frame to the `Compatible Frames` section in this repo via a PR.
-> 3. Send a DM: Send your frame via a DM to `chatframes.eth` through X
+> 3. Send your frame via a DM to 
+> `0xb83978772984b2AEf7CF3f532461c551191Ce10A` through one of the [Compatible Applications](#compatible-applications)
 >
 > That’s it. A representartive will contact you and share details on how to receive the prize!
 
