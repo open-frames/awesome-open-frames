@@ -36,7 +36,7 @@ Open Frames is designed to be universally compatible, with support from a wide r
 
 ### Supporters
 
-This dApps allow their content to be shared as Frames
+This dApps & protocols & tooling already support the Open Frames standard.
 
 - [Paragraph](https://paragraph.xyz)
 - [Launchcaster](https://www.launchcaster.xyz)
