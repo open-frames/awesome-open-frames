@@ -40,30 +40,16 @@ This dApps & protocols & tooling already support the Open Frames standard.
 
 - [Paragraph](https://paragraph.xyz)
 - [Launchcaster](https://www.launchcaster.xyz)
-- [Outcasters](https://outcasters.xyz)
-- [Onchain Letters](https://onchainletters.xyz)
-- [UFO News](https://news.ufo.fm)
-- [RWX](https://rwx.mrjonkane.com)
-- [Power Law Systems](https://powerlaw.systems)
-- [Frameboard](https://www.frameboard.com)
-- [Solo Salon](https://solosalon.clinamenic.com)
-- [Derek Brown](https://derekbrown.xyz)
-- [Zine](https://zine.shamesoiree.com)
-- [Fabrica](https://blog.fabrica.land)
-- [ShortURL](https://shorturl.at)
-- [Wibtal](https://wibtal.com)
-- [Mark McClure](https://markmcclure.xyz)
-- [NextJS Boilerplate](https://nextjs-boilerplate-xi-two-79.vercel.app)
-- [Jared Hecht](https://jaredhecht.com)
-- [Luc.cx](https://luc.cx)
-- [0xPratik](https://0xpratik.com)
-- [Teji](blog.teji.io)
+
+And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onchainletters.xyz) | [UFO News](https://news.ufo.fm) | [RWX](https://rwx.mrjonkane.com) | [Power Law Systems](https://powerlaw.systems) | [Frameboard](https://www.frameboard.com) | [Solo Salon](https://solosalon.clinamenic.com) | [Derek Brown](https://derekbrown.xyz) | [Zine](https://zine.shamesoiree.com) | [Fabrica](https://blog.fabrica.land) | [ShortURL](https://shorturl.at) | [Wibtal](https://wibtal.com) | [Mark McClure](https://markmcclure.xyz) | [NextJS Boilerplate](https://nextjs-boilerplate-xi-two-79.vercel.app) | [Jared Hecht](https://jaredhecht.com) | [Luc.cx](https://luc.cx) | [0xPratik](https://0xpratik.com) | [Teji](blog.teji.io)
 
 #### Tooling
 
 - [Frames.js](https://framesjs.org/reference/js/xmtp)
 - [OnChainKit](https://onchainkit.xyz/xmtp/introduction)
 - [XMTP](https://xmtp.org/docs/build/frames)
+
+### Supporters
 
 ### Related Resources
 
