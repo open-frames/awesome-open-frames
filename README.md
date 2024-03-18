@@ -65,7 +65,7 @@ This dApps allow their content to be shared as Frames
 - [OnChainKit](https://onchainkit.xyz/xmtp/introduction)
 - [XMTP](https://xmtp.org/docs/build/frames)
 
-## Related Resources
+### Related Resources
 
 To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
