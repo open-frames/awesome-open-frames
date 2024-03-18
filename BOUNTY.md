@@ -6,7 +6,9 @@ First, you need to add the specified metadata to your Frame. Based on the provid
 
 **HTML**
 
+```html
 <meta property="of:accepts:xmtp" content="2024-02-01" />
+```
 
 **OnChainKit**
 
