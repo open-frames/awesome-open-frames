@@ -64,3 +64,6 @@ And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onc
 #### Ecosystem Partners
 
 - [Privy](https://privy.io/)
+- [XMTP](https://xmto.org/)
+- [Converse](https://converse.xyz/)
+- [Framejs](https://framesjs.org/)
