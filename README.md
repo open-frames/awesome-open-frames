@@ -50,6 +50,14 @@ To get started with Open Frames or to learn more about the specification and its
 
 ---
 
+### Media Mentions
+
+Here are some notable mentions:
+
+- [The state of frames + frames beyond Farcaster](https://mirror.xyz/albiverse.eth/8Uvsdgv9TTxnENFk90PRcIpiS20h_Av3_JkcVm7Yw2U)
+
+---
+
 ### Supporters
 
 #### Implementation Supporters
