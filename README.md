@@ -24,6 +24,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
+- [Uniframe](https://github.com/Mr94t3z/uniframe)
 
 ### Compatible messaging apps
 
