@@ -15,7 +15,7 @@ const frameMetadata = getFrameMetadata({
       target: `${NEXT_PUBLIC_URL}/api/frame/action2`,
     },
   ],
-  image: `${NEXT_PUBLIC_URL}/picture.png`,
+  image: `${NEXT_PUBLIC_URL}/picture2.png`,
 });
 
 export const metadata: Metadata = {
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Awesome Open Frame',
     description: 'Interoperable Frames',
-    images: [`${NEXT_PUBLIC_URL}/picture.png`],
+    images: [`${NEXT_PUBLIC_URL}/picture2.png`],
   },
   other: {
     ...frameMetadata,
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <img src={'/picture.png'} />
+      <img src={'/picture2.png'} />
     </>
   );
 }
