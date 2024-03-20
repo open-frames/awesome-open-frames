@@ -6,13 +6,13 @@ const frameMetadata = getFrameMetadata({
   buttons: [
     {
       label: 'Read more',
-      action: 'post_redirect',
-      target: `${NEXT_PUBLIC_URL}/api/frame/action1`,
+      action: 'link',
+      target: `https://github.com/open-frames/awesome-open-frames`,
     },
     {
       label: 'Go to bounty',
-      action: 'post_redirect',
-      target: `${NEXT_PUBLIC_URL}/api/frame/action2`,
+      action: 'link',
+      target: `https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md`,
     },
   ],
   image: `${NEXT_PUBLIC_URL}/picture2.png`,

@@ -31,7 +31,6 @@ Open Frames is designed to be universally compatible, with support from a wide r
 
 - [Converse](https://getconverse.app/): Own your conversations.
 - [Converse Web](https://app.converse.xyz/): Own you conversations. On the web.
-- [xmtp.chat](https://xmtp.chat/): An interoperable web3 inbox
 - [dev-inbox](https://dev-inbox.vercel.app/): Dev Focused Frame compatible web client.
 
 #### Tooling
