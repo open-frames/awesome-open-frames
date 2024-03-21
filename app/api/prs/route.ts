@@ -21,7 +21,7 @@ const fetchOpenPRCount = async () => {
     console.error('Error fetching open PR count:', error);
   }
 };
-async function generateAndSavePNG(svgContent) {
+async function generateAndSavePNG(svgContent: string) {
   const fileName = `satori-${Date.now()}.png`;
   const filePath = path.join('/tmp', fileName); // Use /tmp for compatibility with read-only filesystems
   try {
