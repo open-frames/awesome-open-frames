@@ -20,6 +20,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
+- [token-gated-cheese-minter](https://github.com/Ankit-Dwij/fc-token-gated-frame): Token gated onChain minter.
 
 **others**
 
