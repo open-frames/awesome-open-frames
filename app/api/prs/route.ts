@@ -21,15 +21,18 @@ const fetchOpenPRCount = async () => {
     console.error('Error fetching open PR count:', error);
   }
 };
-
-async function generateAndSavePNG(svgContent: string): Promise<string> {
-  const pngBuffer = await sharp(Buffer.from(svgContent)).png().toBuffer();
+async function generateAndSavePNG(svgContent) {
   const fileName = `satori-${Date.now()}.png`;
-  const filePath = path.join(process.cwd(), 'public', fileName);
-  fs.writeFileSync(filePath, pngBuffer);
-  return `${fileName}`;
+  const filePath = path.join('/tmp', fileName); // Use /tmp for compatibility with read-only filesystems
+  try {
+    const pngBuffer = await sharp(Buffer.from(svgContent)).png().toBuffer();
+    fs.writeFileSync(filePath, pngBuffer);
+    return filePath; // Return the full path of the generated file for further use
+  } catch (error) {
+    console.error('Failed to convert SVG to PNG:', error);
+    throw error;
+  }
 }
-
 async function getResponse(req: NextRequest): Promise<NextResponse> {
   const openPRCount = 10; //await fetchOpenPRCount();
 
@@ -40,9 +43,9 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
   </svg>
 `;
 
-  console.log(svgContent);
   const imageUrl = await generateAndSavePNG(svgContent);
 
+  console.log(imageUrl);
   return new NextResponse(
     getFrameHtmlResponse({
       buttons: [
