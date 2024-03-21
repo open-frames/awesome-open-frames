@@ -13,11 +13,11 @@ const frameMetadata = getFrameMetadata({
       label: 'Go to bounty',
       action: 'link',
       target: `https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md`,
-    } /*
+    },
     {
       label: 'Bounty Status',
       action: 'post',
-    },*/,
+    },
   ],
   postUrl: `${NEXT_PUBLIC_URL}/api/prs`,
   image: `${NEXT_PUBLIC_URL}/picture.png`,

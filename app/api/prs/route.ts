@@ -31,7 +31,7 @@ async function generateAndSavePNG(svgContent: string): Promise<string> {
 }
 
 async function getResponse(req: NextRequest): Promise<NextResponse> {
-  const openPRCount = await fetchOpenPRCount();
+  const openPRCount = 10; //await fetchOpenPRCount();
 
   const svgContent = `
   <svg width="500" height="250" xmlns="http://www.w3.org/2000/svg">
