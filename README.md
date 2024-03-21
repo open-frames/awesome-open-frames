@@ -20,7 +20,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
-
+- [Sol-Faucet](https://github.com/VIVEK-SUTHAR/sol-drop-frame): Solana Faucet Frame, Claim devenet sol directly from feed.
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
