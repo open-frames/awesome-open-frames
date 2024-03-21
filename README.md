@@ -25,6 +25,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
+- [FSMMA by metaend.eth](https://gomma-frontend.vercel.app/): Farcaster Social Media Marketing Agency Frame.
 
 ### Compatible messaging apps
 
