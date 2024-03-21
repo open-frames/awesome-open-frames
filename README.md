@@ -75,3 +75,5 @@ And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onc
 - [Converse](https://converse.xyz/)
 - [Framejs](https://framesjs.org/)
 - [Privy](https://privy.io/)
+- [Dynamic](https://www.dynamic.xyz/)
+- [Airstack](https://www.airstack.xyz/)
