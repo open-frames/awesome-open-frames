@@ -36,9 +36,11 @@ Open Frames is designed to be universally compatible, with support from a wide r
 
 #### Tooling
 
-- [Frames.js](https://framesjs.org/reference/js/xmtp)
-- [OnChainKit](https://onchainkit.xyz/xmtp/introduction)
-- [XMTP](https://xmtp.org/docs/build/frames)
+Given the interoperable nature of Open Frames, each protocol has its unique method for handling payloads, making these tools invaluable for integration:
+
+- [Frames.js](https://framesjs.org/reference/js/xmtp): Verify and sign XMTP payloads in XMTP with FramesJS
+- [OnChainKit](https://onchainkit.xyz/xmtp/introduction): Verify and sign XMTP payloads in XMTP with OnChainKit
+- [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP
 
 ### Related Resources
 
