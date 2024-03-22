@@ -25,7 +25,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
-- [Gitcoin grants explorer](https://frame.koisose.lol/allo): See gitcoin grants straight on frame created by [koisose.lol](https://github.com/koisose)
+- [Gitcoin grants explorer](https://warpcast.com/koisose.eth/0xe7dafd0f): See gitcoin grants straight on frame created by [koisose.lol](https://github.com/koisose)
 
 ### Compatible messaging apps
 
