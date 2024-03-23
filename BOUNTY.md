@@ -29,7 +29,21 @@ export const metadata: Metadata = {
 **FramesJS**
 
 ```jsx
-//code sample soon
+const handleRequest = frames(async (ctx) => {
+  return {
+    // ...
+    accepts: [
+      {
+        id: 'farcaster',
+        version: 'vNext',
+      },
+      {
+        id: 'xmtp',
+        version: 'vNext',
+      },
+    ],
+  };
+});
 ```
 
 Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard).
