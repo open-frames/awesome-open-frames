@@ -47,7 +47,6 @@ Given the interoperable nature of Open Frames, each protocol has its unique meth
 To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
 - [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
-- [Open Frames Bounty](/BOUNTY.md): Bounty details for making your frames Open Frame compatible.
 - [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources.
 
 ---
