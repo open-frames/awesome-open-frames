@@ -1,6 +1,6 @@
 # Awesome Open Frames
 
-Open Frames is an interoperable standard extending the original Frames specification to support a broader range of applications and protocols.
+Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
 
 > 💸 **Open Frames Bounty Program**
 >
