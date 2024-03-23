@@ -46,7 +46,11 @@ const handleRequest = frames(async (ctx) => {
 });
 ```
 
-Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard).
+**Frog**
+
+Check the following [issue](https://github.com/wevm/frog/discussions/51)
+
+_Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard)._
 
 ### Step 2: Add Your Frame to the Compatible Frames Section
 
