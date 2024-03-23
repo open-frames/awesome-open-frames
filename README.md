@@ -33,6 +33,7 @@ Open Frames is designed to be universally compatible, with support from a wide r
 - [Converse](https://getconverse.app/): Own your conversations.
 - [Converse Web](https://app.converse.xyz/): Own you conversations. On the web.
 - [dev-inbox](https://dev-inbox.vercel.app/): Dev Focused Frame compatible web client.
+- [Tic-Tac-Toe](https://frame-time-beta.vercel.app/) : Frame to play Tic tac toe
 
 #### Tooling
 
