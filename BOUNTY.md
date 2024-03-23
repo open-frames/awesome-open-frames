@@ -48,7 +48,7 @@ const handleRequest = frames(async (ctx) => {
 
 **Frog**
 
-Check the following [issue](https://github.com/wevm/frog/discussions/51)
+Currently, Frog does not officially support Open Frames. However, a temporary solution can be found in this [discussion](https://github.com/wevm/frog/discussions/51) regarding making Frog compatible.
 
 _Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard)._
 
