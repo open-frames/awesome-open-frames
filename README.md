@@ -22,6 +22,8 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
 
+- [auctioneer-x](https://github.com/Siddesh7/auctioneer-x-dapp) : Dutch Auction via Frames
+  
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
