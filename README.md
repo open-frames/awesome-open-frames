@@ -25,6 +25,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
+- [Frame-Charts](https://framework-green-delta.vercel.app/) : No-code, create your own Frame that queries subgraph data for NFTs on mainnet! (example: 0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D)
 
 ### Compatible messaging apps
 
