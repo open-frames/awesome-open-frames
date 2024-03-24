@@ -25,6 +25,8 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
+- [Spinamp Play](https://github.com/spinamp/spinamp-frames): Play music in a frame via a push notification.
+
 
 ### Compatible messaging apps
 
