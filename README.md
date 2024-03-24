@@ -26,6 +26,10 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
 
+### Compatible frames
+
+- [SuggestMeFrame](https://github.com/cankecilioglu/yazcan-frame/): Music suggestion frame.
+
 ### Compatible messaging apps
 
 Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
