@@ -26,13 +26,35 @@ export const metadata: Metadata = {
 };
 ```
 
+_For comprehensive guidance on integrating Open Frames with OnChainKit, refer to the official [documentation](https://onchainkit.xyz/xmtp/introduction)._
+
 **FramesJS**
 
 ```jsx
-//code sample soon
+const handleRequest = frames(async (ctx) => {
+  return {
+    // ...
+    accepts: [
+      {
+        id: 'farcaster',
+        version: 'vNext',
+      },
+      {
+        id: 'xmtp',
+        version: 'vNext',
+      },
+    ],
+  };
+});
 ```
 
-Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard).
+_For comprehensive guidance on integrating Open Frames with Framesjs, refer to the official [documentation](https://framesjs.org/reference/js/xmtp)._
+
+**Frog**
+
+Currently, Frog does not officially support Open Frames. However, a temporary solution can be found in this [discussion](https://github.com/wevm/frog/discussions/51) regarding making Frog compatible.
+
+_Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard)._
 
 ### Step 2: Add Your Frame to the Compatible Frames Section
 
