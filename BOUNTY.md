@@ -26,6 +26,8 @@ export const metadata: Metadata = {
 };
 ```
 
+_For comprehensive guidance on integrating Open Frames with OnChainKit, refer to the official [documentation](https://onchainkit.xyz/xmtp/introduction)._
+
 **FramesJS**
 
 ```jsx
@@ -45,6 +47,8 @@ const handleRequest = frames(async (ctx) => {
   };
 });
 ```
+
+_For comprehensive guidance on integrating Open Frames with Framesjs, refer to the official [documentation](https://framesjs.org/reference/js/xmtp)._
 
 **Frog**
 
