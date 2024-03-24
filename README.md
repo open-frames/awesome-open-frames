@@ -1,80 +1,36 @@
-# Awesome Open Frames
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
+## Getting Started
 
-> 💸 **Open Frames Bounty Program**
->
-> We're offering a $100 bounty for developers who achieve 3 goals:
->
-> 1. Make your Frame interoperable with the Open Frames standard.
-> 2. Add your Frame to the `Example Frames` section in this repo via a PR.
-> 3. Send your frame via a DM to `hi.xmtp.eth` through one of the `Applications` section.
->
-> Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
+First, run the development server:
 
-### Example frames
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-**open-source**
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
-- [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
-- [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-**others**
+## Learn More
 
-- [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
+To learn more about Next.js, take a look at the following resources:
 
-### Compatible messaging apps
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-- [Converse](https://getconverse.app/): Own your conversations.
-- [Converse Web](https://app.converse.xyz/): Own you conversations. On the web.
-- [dev-inbox](https://dev-inbox.vercel.app/): Dev Focused Frame compatible web client.
+## Deploy on Vercel
 
-#### Tooling
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Given the interoperable nature of Open Frames, each protocol has its unique method for handling payloads, making these tools invaluable for integration:
-
-- [Frames.js](https://framesjs.org/reference/js/xmtp): Verify and sign XMTP payloads in XMTP with FramesJS
-- [OnChainKit](https://onchainkit.xyz/xmtp/introduction): Verify and sign XMTP payloads in XMTP with OnChainKit
-- [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP
-
-### Related Resources
-
-To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
-
-- [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
-- [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources.
-
----
-
-### Media Mentions
-
-Here are some notable mentions:
-
-- [The state of frames + frames beyond Farcaster](https://mirror.xyz/albiverse.eth/8Uvsdgv9TTxnENFk90PRcIpiS20h_Av3_JkcVm7Yw2U)
-
----
-
-### Supporters
-
-#### Implementation Supporters
-
-This dApps & protocols & tooling already support the Open Frames standard.
-
-- [Paragraph](https://paragraph.xyz)
-- [Launchcaster](https://www.launchcaster.xyz)
-
-And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onchainletters.xyz) | [UFO News](https://news.ufo.fm) | [RWX](https://rwx.mrjonkane.com) | [Power Law Systems](https://powerlaw.systems) | [Frameboard](https://www.frameboard.com) | [Solo Salon](https://solosalon.clinamenic.com) | [Derek Brown](https://derekbrown.xyz) | [Zine](https://zine.shamesoiree.com) | [Fabrica](https://blog.fabrica.land) | [ShortURL](https://shorturl.at) | [Wibtal](https://wibtal.com) | [Mark McClure](https://markmcclure.xyz) | [NextJS Boilerplate](https://nextjs-boilerplate-xi-two-79.vercel.app) | [Jared Hecht](https://jaredhecht.com) | [Luc.cx](https://luc.cx) | [0xPratik](https://0xpratik.com) | [Teji](blog.teji.io)
-
-#### Ecosystem Partners
-
-- [XMTP](https://xmto.org/)
-- [Converse](https://converse.xyz/)
-- [Framejs](https://framesjs.org/)
-- [Privy](https://privy.io/)
-- [Dynamic](https://www.dynamic.xyz/)
-- [Airstack](https://www.airstack.xyz/)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
