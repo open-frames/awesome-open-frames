@@ -22,7 +22,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
 
--[MediFund](https://github.com/SharmilaChoudhary/Frameworks):Help the People in need.
+.[MediFund](https://github.com/SharmilaChoudhary/Frameworks):Help the People in need.
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
