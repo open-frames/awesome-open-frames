@@ -21,6 +21,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
+- [frames-trending-tokens](https://github.com/vividwood/frames-trending-tokens): Frames Trending Tokens
 
 **others**
 
