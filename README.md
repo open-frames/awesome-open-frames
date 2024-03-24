@@ -21,6 +21,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
+- [knowledge-card](h[ttps://github.com/Nith567/far](https://github.com/mr-harshtyagi/fc-knowledge-cards-frame)): Discover and learn new information throught Knowledge Cards.
 
 **others**
 
