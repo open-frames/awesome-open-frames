@@ -25,7 +25,8 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
 - [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages.
-
+- [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page template, fetches from https://web3.bio
+- [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout.
 ### Compatible messaging apps
 
 Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
