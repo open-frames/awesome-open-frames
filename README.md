@@ -26,6 +26,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
+- [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages. Frame here: https://robertcedwards.github.io/Zurf-XMTP-OpenFrame/ 
 
 ### Compatible messaging apps
 
