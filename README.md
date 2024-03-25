@@ -20,12 +20,25 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
+- [Peace for colors](https://github.com/rtomas/peace-frame-farcaster): Peace for colors artwork.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
 - [Mint-A-Cast](https://github.com/jamiechicago312/frameworks-ri-ja): Mint any cast into an NFT with this frame.
+- [meme-coin-snipe-frame](https://github.com/golryang/meme-coin-snipe-frame-frontend): Meme coin snipe on frame.
+- [Meme generator farcaster](https://github.com/ajaybutti/meme-farcaster-generator): Memes generate within farcaster frames
+- [Roll-the-dice](https://github.com/LeoFranklin015/XMTP-frames) : Rolling a dice app, where we roll the dice and if the number matches , we win or we lose !
+  Frame url : [https://xmtp-frames.vercel.app](https://xmtp-frames.vercel.app)
+- [clickcaster](https://github.com/IgorShadurin/warpcast-traffic): Traffic exchange platform between Frames.
+- ⁠[Uniframe](https://github.com/Mr94t3z/uniframe): Collection View Frame for Koda
+- [Gitcoin grants explorer](https://github.com/koisose/frame): See gitcoin grants straight on frame created by [koisose.lol](https://github.com/koisose)
+- [adventure-farcaster-frame](https://github.com/Vamsieth/farcast) : Choose your own adventure in a Farcaster Frame.
+- [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
 
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
+- [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page template, fetches from https://web3.bio. Frame here: https://0xhashbrown.xyz/
+- [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout. Frame here: https://luna-music.github.io/LunaVibesTees/
+- [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages. Frame here: https://robertcedwards.github.io/Zurf-XMTP-OpenFrame/ 
 
 ### Compatible messaging apps
 

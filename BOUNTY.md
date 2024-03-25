@@ -26,6 +26,8 @@ export const metadata: Metadata = {
 };
 ```
 
+_For comprehensive guidance on integrating Open Frames with OnChainKit, refer to the official [documentation](https://onchainkit.xyz/xmtp/introduction)._
+
 **FramesJS**
 
 ```jsx
@@ -45,6 +47,8 @@ const handleRequest = frames(async (ctx) => {
   };
 });
 ```
+
+_For comprehensive guidance on integrating Open Frames with Framesjs, refer to the official [documentation](https://framesjs.org/reference/js/xmtp)._
 
 **Frog**
 
@@ -75,6 +79,8 @@ _Go here learn more about the Open Frames [specification](https://github.com/ope
 ### Step 4: Wait for Contact
 
 After completing the above steps, our team will contact you through the provided wallet address and send the payment in USDC through XMTP.
+
+> ⚠️ To be eligible for the bounty the Frame must render without errors.
 
 Make sure you've followed all the guidelines and requirements specified in the bounty to ensure eligibility.
 Good luck!
