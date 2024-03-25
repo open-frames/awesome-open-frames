@@ -22,6 +22,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 - [Peace for colors](https://github.com/rtomas/peace-frame-farcaster): Peace for colors artwork.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
+- [Mint-A-Cast](https://github.com/jamiechicago312/frameworks-ri-ja): Mint any cast into an NFT with this frame.
 - [meme-coin-snipe-frame](https://github.com/golryang/meme-coin-snipe-frame-frontend): Meme coin snipe on frame.
 - [Meme generator farcaster](https://github.com/ajaybutti/meme-farcaster-generator): Memes generate within farcaster frames
 - [Roll-the-dice](https://github.com/LeoFranklin015/XMTP-frames) : Rolling a dice app, where we roll the dice and if the number matches , we win or we lose !
