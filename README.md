@@ -1,6 +1,6 @@
 # Awesome Open Frames
 
-Open Frames is an interoperable standard extending the original Frames specification to support a broader range of applications and protocols.
+Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
 
 > 💸 **Open Frames Bounty Program**
 >
@@ -20,12 +20,16 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
+- [Peace for colors](https://github.com/rtomas/peace-frame-farcaster): Peace for colors artwork.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
 - [Gitcoin grants explorer](https://github.com/koisose/frame): See gitcoin grants straight on frame created by [koisose.lol](https://github.com/koisose)
+- [adventure-farcaster-frame](https://github.com/Vamsieth/farcast) : Choose your own adventure in a Farcaster Frame.
+- [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
 
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
+- [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages. Frame here: https://robertcedwards.github.io/Zurf-XMTP-OpenFrame/ 
 
 ### Compatible messaging apps
 
@@ -48,7 +52,6 @@ Given the interoperable nature of Open Frames, each protocol has its unique meth
 To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
 - [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
-- [Open Frames Bounty](/BOUNTY.md): Bounty details for making your frames Open Frame compatible.
 - [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources.
 
 ---
