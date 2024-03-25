@@ -80,7 +80,7 @@ _Go here learn more about the Open Frames [specification](https://github.com/ope
 
 After completing the above steps, our team will contact you through the provided wallet address and send the payment in USDC through XMTP.
 
-To be eligible for the bounty the Frame must render without errors.
+> ⚠️ To be eligible for the bounty the Frame must render without errors.
 
 Make sure you've followed all the guidelines and requirements specified in the bounty to ensure eligibility.
 Good luck!
