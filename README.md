@@ -23,11 +23,14 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Peace for colors](https://github.com/rtomas/peace-frame-farcaster): Peace for colors artwork.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
 - [Meme generator farcaster](https://github.com/ajaybutti/meme-farcaster-generator): Memes generate within farcaster frames
+- [Roll-the-dice](https://github.com/LeoFranklin015/XMTP-frames) : Rolling a dice app, where we roll the dice and if the number matches , we win or we lose !
+  Frame url : [https://xmtp-frames.vercel.app](https://xmtp-frames.vercel.app)
 - [clickcaster](https://github.com/IgorShadurin/warpcast-traffic): Traffic exchange platform between Frames.
 - ⁠[Uniframe](https://github.com/Mr94t3z/uniframe): Collection View Frame for Koda
 - [Gitcoin grants explorer](https://github.com/koisose/frame): See gitcoin grants straight on frame created by [koisose.lol](https://github.com/koisose)
 - [adventure-farcaster-frame](https://github.com/Vamsieth/farcast) : Choose your own adventure in a Farcaster Frame.
 - [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
+
 
 **others**
 
