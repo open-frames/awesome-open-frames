@@ -22,6 +22,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 - [Peace for colors](https://github.com/rtomas/peace-frame-farcaster): Peace for colors artwork.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
+- [farcaster-gallery](https://github.com/s29papi/hello): Beginner XMTP Frame with onchainkit.xyz.
 
 **others**
 
