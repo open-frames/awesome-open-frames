@@ -37,13 +37,13 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [2048 Game Farme](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform. Frame url : [Frame](https://2048frame.netlify.app/)
 - [AI-Trivia](https://github.com/Tech-axis/ai-trivia) : Open Frame that allows users to play the 20 Questions game which are AI generated based on the user input.
 - [Greeting Frame](https://github.com/Larhra/gm-frame): Greeting frame, Takes in any @username as input and returns the greeting, Gm, @username!!!.
+- [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout. Frame here: https://luna-music.github.io/LunaVibesTees/
+- [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages.
+- [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page
 
 **others**
 
-- [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
-- [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page template, fetches from https://web3.bio. Frame here: https://0xhashbrown.xyz/
-- [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout. Frame here: https://luna-music.github.io/LunaVibesTees/
-- [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages. Frame here: https://robertcedwards.github.io/Zurf-XMTP-OpenFrame/
+- [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.template, fetches from https://web3.bio. Frame here: https://0xhashbrown.xyz/
 
 ### Compatible messaging apps
 
