@@ -33,7 +33,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Gitcoin grants explorer](https://github.com/koisose/frame): See gitcoin grants straight on frame created by [koisose.lol](https://github.com/koisose)
 - [adventure-farcaster-frame](https://github.com/Vamsieth/farcast) : Choose your own adventure in a Farcaster Frame.
 - [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
-- [2048 Game Farme](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform. Frame url : [Frame](https://2048frame.netlify.app/)
+- [2048 Game Frame](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform. Frame url : [Frame](https://2048frame.netlify.app/)
 
 **others**
 
