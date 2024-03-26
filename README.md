@@ -34,6 +34,8 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [adventure-farcaster-frame](https://github.com/Vamsieth/farcast) : Choose your own adventure in a Farcaster Frame.
 - [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
 - [2048 Game Frame](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform. Frame url : [Frame](https://2048frame.netlify.app/)
+- [Farguessr](https://github.com/cryptods8/farguessr): Guess the distance between 2 countries - daily or random game. Frame home is [here](https://farguessr.vercel.app).
+- [Openframedl](https://github.com/cryptods8/openframedl): Wordle in a frame - daily or random game. Frame home is [here](https://openframedl.vercel.app).
 
 **others**
 
