@@ -26,8 +26,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Mint-A-Cast](https://github.com/jamiechicago312/frameworks-ri-ja): Mint any cast into an NFT with this frame.
 - [meme-coin-snipe-frame](https://github.com/golryang/meme-coin-snipe-frame-frontend): Meme coin snipe on frame.
 - [Meme generator farcaster](https://github.com/ajaybutti/meme-farcaster-generator): Memes generate within farcaster frames
-- [Roll-the-dice](https://github.com/LeoFranklin015/XMTP-frames) : Rolling a dice app, where we roll the dice and if the number matches , we win or we lose !
-  Frame url : [https://xmtp-frames.vercel.app](https://xmtp-frames.vercel.app)
+- [Roll-the-dice](https://github.com/LeoFranklin015/XMTP-frames) : Rolling a dice app, where we roll the dice and if the number matches , we win or we lose
 - [clickcaster](https://github.com/IgorShadurin/warpcast-traffic): Traffic exchange platform between Frames.
 - ⁠[Uniframe](https://github.com/Mr94t3z/uniframe): Collection View Frame for Koda
 - [Gitcoin grants explorer](https://github.com/koisose/frame): See gitcoin grants straight on frame created by [koisose.lol](https://github.com/koisose)
@@ -44,7 +43,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
 - [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page template, fetches from https://web3.bio. Frame here: https://0xhashbrown.xyz/
 - [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout. Frame here: https://luna-music.github.io/LunaVibesTees/
-- [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages. Frame here: https://robertcedwards.github.io/Zurf-XMTP-OpenFrame/ 
+- [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages. Frame here: https://robertcedwards.github.io/Zurf-XMTP-OpenFrame/
 
 ### Compatible messaging apps
 
