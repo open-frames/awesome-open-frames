@@ -35,6 +35,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
 - [2048 Game Farme](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform. Frame url : [Frame](https://2048frame.netlify.app/)
 - [AI-Trivia](https://github.com/Tech-axis/ai-trivia) : Open Frame that allows users to play the 20 Questions game which are AI generated based on the user input.
+- [Greeting Frame](https://github.com/Larhra/gm-frame): Greeting frame, Takes in any @username as input and returns the greeting, Gm, @username!!!.
 
 **others**
 
