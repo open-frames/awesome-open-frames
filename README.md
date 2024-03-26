@@ -40,6 +40,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout. Frame here: https://luna-music.github.io/LunaVibesTees/
 - [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages.
 - [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page
+- [Framering open frame](https://github.com/ai-sudo1/framering/): Just a good old fashioned web ring but with open frames [live](https://framering-olive.vercel.app/)
 
 **others**
 
