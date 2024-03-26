@@ -36,6 +36,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Farguessr](https://github.com/cryptods8/farguessr): Guess the distance between 2 countries - daily or random game. Frame home is [here](https://farguessr.vercel.app).
 - [Openframedl](https://github.com/cryptods8/openframedl): Wordle in a frame - daily or random game. Frame home is [here](https://openframedl.vercel.app).
 - [2048 Game Farme](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform. Frame url : [Frame](https://2048frame.netlify.app/)
+- [AI-Trivia](https://github.com/Tech-axis/ai-trivia) : Open Frame that allows users to play the 20 Questions game which are AI generated based on the user input.
 - [Greeting Frame](https://github.com/Larhra/gm-frame): Greeting frame, Takes in any @username as input and returns the greeting, Gm, @username!!!.
 
 **others**
