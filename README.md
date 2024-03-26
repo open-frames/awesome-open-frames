@@ -33,6 +33,8 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Gitcoin grants explorer](https://github.com/koisose/frame): See gitcoin grants straight on frame created by [koisose.lol](https://github.com/koisose)
 - [adventure-farcaster-frame](https://github.com/Vamsieth/farcast) : Choose your own adventure in a Farcaster Frame.
 - [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
+- [Farguessr](https://github.com/cryptods8/farguessr): Guess the distance between 2 countries - daily or random game. Frame home is [here](https://farguessr.vercel.app).
+- [Openframedl](https://github.com/cryptods8/openframedl): Wordle in a frame - daily or random game. Frame home is [here](https://openframedl.vercel.app).
 - [2048 Game Farme](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform. Frame url : [Frame](https://2048frame.netlify.app/)
 - [Greeting Frame](https://github.com/Larhra/gm-frame): Greeting frame, Takes in any @username as input and returns the greeting, Gm, @username!!!.
 
