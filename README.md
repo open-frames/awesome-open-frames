@@ -29,7 +29,6 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Farguessr](https://github.com/cryptods8/farguessr): Guess the distance between 2 countries - daily or random game.
 - [Openframedl](https://github.com/cryptods8/openframedl): Wordle in a frame - daily or random game.
 - [2048 Game Farme](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform.
-- [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.template, fetches from https://web3.bio.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [Peace for colors](https://github.com/rtomas/peace-frame-farcaster): Peace for colors artwork.
