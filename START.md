@@ -1,6 +1,6 @@
-# Open Frames Bounty
+# Get started with Open Frames
 
-Welcome to the Open Frames Bounty Program! 🚀 If you're passionate about interoperability and eager to make your Frame a part of the ever-growing Open Frames ecosystem, you're in the right place. By following the steps you will enhance your Frame with the necessary metadata for Open Frames compatibility, according to this [standard](https://github.com/open-frames/standard). Let's dive in!
+If you're passionate about interoperability and eager to make your Frame a part of the ever-growing Open Frames ecosystem, you're in the right place. By following the steps you will enhance your Frame with the necessary metadata for Open Frames compatibility, according to this [standard](https://github.com/open-frames/standard). Let's dive in!
 
 ### Step 1: Modify the Metadata in Your Frame
 
@@ -72,15 +72,10 @@ _Go here learn more about the Open Frames [specification](https://github.com/ope
 
 1. **Access XMTP**: Go to the any of the apps listed in the [Compatible Applications](https://github.com/open-frames/awesome-open-frames?tab=readme-ov-file#compatible-messaging-apps)
 
-2. **Connect Your Wallet**: Follow the prompts to connect your Ethereum wallet. Make sure you're using the wallet address that you want to be contacted on for the bounty.
+2. **Connect Your Wallet**: Follow the prompts to connect your Ethereum wallet. Make sure you're using the wallet address that you want to be contacted.
 
-3. **Send a DM**: Compose a new message to `hi.xmtp.eth`. In the message, include a link to your Frame and mention that you've added it to the Compatible Frames section as per the bounty requirements.
+3. **Send a DM**: Compose a new message to `hi.xmtp.eth`. In the message, include a link to your Frame and mention that you've added it to the Compatible Frames section.
 
 ### Step 4: Wait for Contact
 
 After completing the above steps, our team will contact you through the provided wallet address and send the payment in USDC through XMTP.
-
-> ⚠️ To be eligible for the bounty the Frame must render without errors.
-
-Make sure you've followed all the guidelines and requirements specified in the bounty to ensure eligibility.
-Good luck!
