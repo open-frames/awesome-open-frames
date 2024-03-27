@@ -21,10 +21,10 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Farguessr Frame](https://farguessr.vercel.app) - Guess the distance between 2 countries - daily or random game.
 - [Openframedl Frame](https://openframedl.vercel.app) - Wordle in a frame - daily or random game.
 - [2048 Game Frame](https://2048frame.netlify.app) - Play 2048 game on any open frame compatible platform.
-- [Zora Magic Machine Frame](https://0xhashbrown.xyz/) - Zora newsletter through Paragraph.template.
-- [Rock Paper Scissors Frame](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors) - Rock paper scissors game.
+- [Zora Magic Machine Frame](hthttps://paragraph.xyz/@zora/zora-magic-machine) - Zora newsletter
+- [Rock Paper Scissors Frame](https://xmtp-frame-rock-paper-scissors.vercel.app/) - Rock paper scissors game.
 
-**open-source**
+  **open-source**
 
 - [Farguessr](https://github.com/cryptods8/farguessr): Guess the distance between 2 countries - daily or random game.
 - [Openframedl](https://github.com/cryptods8/openframedl): Wordle in a frame - daily or random game.
