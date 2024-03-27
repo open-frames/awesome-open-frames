@@ -58,7 +58,7 @@ Open Frames is designed to be universally compatible, with support from a wide r
 - [Converse Web](https://app.converse.xyz/): Own you conversations. On the web.
 - [dev-inbox](https://dev-inbox.vercel.app/): Dev Focused Frame compatible web client.
 
-#### Tooling
+### Tooling
 
 Given the interoperable nature of Open Frames, each protocol has its unique method for handling payloads, making these tools invaluable for integration:
 
@@ -66,7 +66,7 @@ Given the interoperable nature of Open Frames, each protocol has its unique meth
 - [OnChainKit](https://onchainkit.xyz/xmtp/introduction): Verify and sign XMTP payloads in XMTP with OnChainKit
 - [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP
 
-### Related Resources
+### Other Resources
 
 To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
