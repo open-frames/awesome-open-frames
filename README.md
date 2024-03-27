@@ -33,7 +33,6 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [Peace for colors](https://github.com/rtomas/peace-frame-farcaster): Peace for colors artwork.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
-- [MediFund](https://github.com/SharmilaChoudhary/Frameworks):Help the People in need.
 - [tvl_data_in_timeswap](https://github.com/HrithikSampson/TVL_History): View the Total Value locked in Timeswap Liquidity Pool.
 - [Mint-A-Cast](https://github.com/jamiechicago312/frameworks-ri-ja): Mint any cast into an NFT with this frame.
 - [meme-coin-snipe-frame](https://github.com/golryang/meme-coin-snipe-frame-frontend): Meme coin snipe on frame.
