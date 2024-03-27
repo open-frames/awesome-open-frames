@@ -45,8 +45,8 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Gitcoin grants explorer](https://github.com/koisose/frame): See gitcoin grants straight on frame
 - [adventure-farcaster-frame](https://github.com/Vamsieth/farcast) : Choose your own adventure in a Farcaster Frame.
 - [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
-- [AI-Trivia](https://github.com/Tech-axis/ai-trivia) : Open Frame that allows users to play the 20 Questions game which are AI generated based on the user input.
-- [Greeting Frame](https://github.com/Larhra/gm-frame): Greeting frame, Takes in any @username as input and returns the greeting, Gm, @username!!!.
+- [AI-Trivia](https://github.com/Tech-axis/ai-trivia) : Open Frame that allows users to play the 20 Questions game which are AI generated based
+- [Greeting Frame](https://github.com/Larhra/gm-frame): Greeting frame, Takes in any @username as input and returns Gm, @username!!!.
 - [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout.
 - [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages.
 - [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page
