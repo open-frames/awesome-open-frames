@@ -75,6 +75,64 @@ To get started with Open Frames or to learn more about the specification and its
 
 ---
 
+### Getting started
+
+First, you need to add the specified metadata to your Frame. Based on the provided context, it looks like you're working with a TypeScript file in a project. Here's how you can add the metadata depending on your environment:
+
+**HTML**
+
+```html
+<meta property="of:accepts:xmtp" content="2024-02-01" />
+```
+
+**OnChainKit**
+
+```jsx
+export const metadata: Metadata = {
+  title: /*Your frame metadata*/,
+  description: /*Your frame metadata*/,
+  openGraph: {/*Your frame metadata*/},
+  other: {
+    ...frameMetadata,
+    'of:accepts:xmtp': '2024-02-01', // Ensure this line is added or updated
+  },
+};
+```
+
+_For comprehensive guidance on integrating Open Frames with OnChainKit, refer to the official [documentation](https://onchainkit.xyz/xmtp/introduction)._
+
+**FramesJS**
+
+```jsx
+const handleRequest = frames(async (ctx) => {
+  return {
+    // ...
+    accepts: [
+      {
+        id: 'farcaster',
+        version: 'vNext',
+      },
+      {
+        id: 'xmtp',
+        version: 'vNext',
+      },
+    ],
+  };
+});
+```
+
+_For comprehensive guidance on integrating Open Frames with Framesjs, refer to the official [documentation](https://framesjs.org/reference/js/xmtp)._
+
+**Frog**
+
+Currently, Frog does not officially support Open Frames. However, a temporary solution can be found in this [discussion](https://github.com/wevm/frog/discussions/51) regarding making Frog compatible.
+
+**Documentation**
+
+_Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard)._
+
+---
+
 ### Media Mentions
 
 Here are some notable mentions:
