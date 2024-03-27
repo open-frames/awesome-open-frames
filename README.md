@@ -17,7 +17,7 @@ Open Frames is an interoperable [standard](https://github.com/open-frames/standa
 > 🚀 **Kickstart Your Journey with Open Frames** in two simple steps.
 >
 > 1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
-> 2. **Dive into the Documentation**: Familiarize yourself with your framework's documentation to validate and ensure compatibility of your Frame's requests.
+> 2. **Verifying requests**: Familiarize yourself with your framework's documentation to validate and ensure compatibility of your Frame's requests.
 >
 > For a detailed guide, check out [Start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
 
