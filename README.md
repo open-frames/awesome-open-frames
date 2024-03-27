@@ -14,9 +14,7 @@ Open Frames is an interoperable [standard](https://github.com/open-frames/standa
 > Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
 -->
 
-> 🚀 **Kickstart Your Journey with Open Frames**
->
-> Jumpstart your Frame's compatibility with Open Frames in two simple steps.
+> 🚀 **Kickstart Your Journey with Open Frames** in two simple steps.
 >
 > 1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
 > 2. **Dive into the Documentation**: Familiarize yourself with your framework's documentation to validate and ensure compatibility of your Frame's requests.
