@@ -2,6 +2,7 @@
 
 Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
 
+<!--
 > 💸 **Open Frames Bounty Program**
 >
 > We're offering a $100 bounty for developers who achieve 3 goals:
@@ -11,6 +12,7 @@ Open Frames is an interoperable [standard](https://github.com/open-frames/standa
 > 3. Send your frame via a DM to `hi.xmtp.eth` through one of the `Applications` section.
 >
 > Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
+-->
 
 ### Example frames
 
