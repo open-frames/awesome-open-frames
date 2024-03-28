@@ -47,7 +47,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Meme generator farcaster](https://github.com/ajaybutti/meme-farcaster-generator): Memes generate within farcaster frames
 - [Roll-the-dice](https://github.com/LeoFranklin015/XMTP-frames) : Rolling a dice app, where we roll the dice and if the number matches , we win or we lose
 - [clickcaster](https://github.com/IgorShadurin/warpcast-traffic): Traffic exchange platform between Frames.
-- ⁠[Uniframe](https://github.com/Mr94t3z/uniframe): Collection View Frame for Koda
+- ⁠[Uniframe](https://github.com/Mr94t3z/uniframe): Collection View Frame for Koda.
 - [Gitcoin grants explorer](https://github.com/koisose/frame): See gitcoin grants straight on frame
 - [adventure-farcaster-frame](https://github.com/Vamsieth/farcast) : Choose your own adventure in a Farcaster Frame.
 - [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
@@ -56,6 +56,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages.
 - [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page
 - [Framer](https://github.com/alekcangp/framer): The Farcaster Frame to building the Frames.
+- ⁠[Onthis Frame](https://github.com/Mr94t3z/onthis-frame): The Farcaster Frame for Creating and Swapping Shortcuts seamlessly integrates with https://create.onthis.xyz/.
 
 ### Compatible messaging apps
 
