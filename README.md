@@ -71,6 +71,7 @@ Given the interoperable nature of Open Frames, each protocol has its unique meth
 
 - [Frames.js](https://framesjs.org/reference/js/xmtp): Verify and sign XMTP payloads in XMTP with FramesJS
 - [OnChainKit](https://onchainkit.xyz/xmtp/introduction): Verify and sign XMTP payloads in XMTP with OnChainKit
+- [Neynar](https://warpcast.com/rish/0x6ee0f33b): Neynar builder supports Open Frames
 - [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP
 
 ### Other Resources
