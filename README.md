@@ -20,6 +20,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Zora Magic Machine Frame](https://paragraph.xyz/@zora/zora-magic-machine/) - Zora newsletter
 - [Rock Paper Scissors Frame](https://xmtp-frame-rock-paper-scissors.vercel.app/) - Rock paper scissors game.
 - [SlideFrame](https://slideframe.replit.app/) - Easily share presentation slides in a frame.
+- [Slot Machine Frame](https://slot-machine-frame.vercel.app/) - Simple slot machine game.
 
 **open-source**
 
@@ -48,7 +49,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page
 - [Framer](https://github.com/alekcangp/framer): The Farcaster Frame to building the Frames.
 - ⁠[Onthis Frame](https://github.com/Mr94t3z/onthis-frame): The Farcaster Frame for Creating and Swapping Shortcuts.
-
+- ⁠[Slot Machine Frame](https://github.com/sonicsmith/slot-machine-frame): Simple slot machine game built using frames.js.
 ---
 
 ### Messaging apps
