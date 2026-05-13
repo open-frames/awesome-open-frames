@@ -21,6 +21,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Rock Paper Scissors Frame](https://xmtp-frame-rock-paper-scissors.vercel.app/) - Rock paper scissors game.
 - [SlideFrame](https://slideframe.replit.app/) - Easily share presentation slides in a frame.
 - [Slot Machine Frame](https://slot-machine-frame.vercel.app/) - Simple slot machine game.
+- [Solana Tip Jar](https://justabiologist.github.io/sol-tip-frame/) - Send SOL/USDC tips directly via wallet deep-links. Open Frames compatible.
 
 **open-source**
 
@@ -45,6 +46,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [The Serendipity Engine](https://github.com/Envoy-VC/the-serendipity-engine): Profile discovery based on 6 Degrees of Separation.
 - [AI-Trivia](https://github.com/Tech-axis/ai-trivia) : Open Frame that allows users to play the 20 Questions game which are AI generated based
 - [Greeting Frame](https://github.com/Larhra/gm-frame): Greeting frame, Takes in any @username as input and returns Gm, @username!!!.
+- [Solana Tip Jar](https://github.com/JustABiologist/sol-tip-frame): Send SOL/USDC tips via wallet deep-links. Open Frames compatible (of:accepts:xmtp).
 - [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages.
 - [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page
 - [Framer](https://github.com/alekcangp/framer): The Farcaster Frame to building the Frames.
