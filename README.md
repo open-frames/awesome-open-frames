@@ -21,6 +21,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Rock Paper Scissors Frame](https://xmtp-frame-rock-paper-scissors.vercel.app/) - Rock paper scissors game.
 - [SlideFrame](https://slideframe.replit.app/) - Easily share presentation slides in a frame.
 - [Slot Machine Frame](https://slot-machine-frame.vercel.app/) - Simple slot machine game.
+- [Agent Commerce Desk](https://x402-wallet-readiness-service.vercel.app/open-frame) - Base USDC wallet-readiness and x402 service discovery frame.
 
 **open-source**
 
@@ -50,6 +51,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Framer](https://github.com/alekcangp/framer): The Farcaster Frame to building the Frames.
 - ⁠[Onthis Frame](https://github.com/Mr94t3z/onthis-frame): The Farcaster Frame for Creating and Swapping Shortcuts.
 - ⁠[Slot Machine Frame](https://github.com/sonicsmith/slot-machine-frame): Simple slot machine game built using frames.js.
+- [Agent Commerce Desk](https://github.com/chico10117/basepay-readiness-service): Open Frame for Base USDC wallet-readiness checks and x402 API service discovery.
 ---
 
 ### Messaging apps
