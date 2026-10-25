@@ -21,6 +21,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Rock Paper Scissors Frame](https://xmtp-frame-rock-paper-scissors.vercel.app/) - Rock paper scissors game.
 - [SlideFrame](https://slideframe.replit.app/) - Easily share presentation slides in a frame.
 - [Slot Machine Frame](https://slot-machine-frame.vercel.app/) - Simple slot machine game.
+- [Anansi Arcade Frame](https://anansidata-miniapp.vercel.app) - Free arcade mini-games (Star Blaster, Bug Hunt, 60s Speed Quiz) with server-verified deterministic replay and live daily/weekly high-score leaderboards.
 
 **open-source**
 
